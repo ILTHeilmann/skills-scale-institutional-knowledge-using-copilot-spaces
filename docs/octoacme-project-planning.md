@@ -39,5 +39,6 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Definition of Done documented (see [RACI Matrix — DoD row](octoacme-raci-matrix.md))
+- [ ] Initial test plan / QA approach drafted (QA Lead accountable — see [Roles & Personas](octoacme-roles-and-personas.md))
+- [ ] RACI matrix reviewed and shared with the full team ([RACI Matrix](octoacme-raci-matrix.md))
