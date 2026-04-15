@@ -11,10 +11,13 @@ Clear ownership and shared responsibilities are defined through the following pe
 - **Project Manager (PM):** Coordinates delivery logistics—timelines, risk management, stakeholder communication, and meeting facilitation.
 - **Product Manager (PdM):** Defines outcomes, prioritizes the backlog, and measures impact against success metrics.
 - **Developers:** Design and implement shippable increments, contribute to estimation and technical risk mitigation, and maintain tests and documentation.
-- **QA/Testing:** Validates acceptance criteria and overall quality.
+- **UX Designer:** Embeds user-centered design throughout delivery—research, wireframes, prototypes, and design handoff to developers.
+- **DevOps Engineer:** Automates and maintains CI/CD pipelines, infrastructure, and production health monitoring.
+- **QA Lead:** Champions quality practices, owns the test strategy, and provides release readiness sign-off.
+- **Data Analyst:** Defines success metrics, builds dashboards, and provides data-driven insights at every lifecycle stage.
 - **Stakeholders:** Provide inputs and approvals.
 
-These roles are supported by core artifacts such as a backlog, acceptance criteria, risk register, release plan, and retrospective action items to keep work transparent and trackable.
+These roles are supported by core artifacts such as a backlog, acceptance criteria, risk register, release plan, and retrospective action items to keep work transparent and trackable. See [Roles & Personas](octoacme-roles-and-personas.md) for full role descriptions and [RACI Matrix](octoacme-raci-matrix.md) for a cross-role ownership summary.
 
 ## Communication Cadence
 
@@ -53,3 +56,4 @@ The documents in this folder cover each phase and aspect of OctoAcme's project m
 | [Release & Deployment](octoacme-release-and-deployment.md) | Release checklist, deployment process, and post-deploy verification |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective format, action items, and improvement tracking |
 | [Roles & Personas](octoacme-roles-and-personas.md) | Detailed responsibilities and communication patterns for each role |
+| [RACI Matrix](octoacme-raci-matrix.md) | Cross-role ownership mapping for key activities across the project lifecycle |

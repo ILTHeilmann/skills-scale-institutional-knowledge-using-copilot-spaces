@@ -10,10 +10,10 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 
 ## Pre-release requirements
 - All acceptance criteria met and PRs merged
-- Passing CI and security scans
+- Passing CI and security scans (DevOps Engineer owns pipeline — see [Roles & Personas](octoacme-roles-and-personas.md))
 - Release notes drafted
 - Rollback / mitigation plan documented
-- Smoke tests prepared
+- Smoke tests prepared and signed off by QA Lead (see [RACI Matrix — Release readiness row](octoacme-raci-matrix.md))
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)

@@ -10,6 +10,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
+  - The **QA column** is owned by the QA Lead, who triages and tracks defects and provides the go/no-go signal before items move to Done (see [Roles & Personas](octoacme-roles-and-personas.md) and [RACI Matrix](octoacme-raci-matrix.md)).
 - Pull Request workflow:
   - Small PRs (<= 400 lines when possible)
   - Include issue link and acceptance criteria in PR description
